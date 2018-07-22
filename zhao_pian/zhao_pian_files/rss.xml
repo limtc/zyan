@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title> 赵艳</title>
+    <link>file://localhost/Users/limtc/Sites/Zhao_Yan/zhao_pian/zhao_pian.html</link>
+    <description> 赵艳</description>
+    <item>
+      <title>婚纱照</title>
+      <link>file://localhost/Users/limtc/Sites/Zhao_Yan/zhao_pian/ye_mian/hun_sha_zhao.html</link>
+      <guid isPermaLink="false">a3c44e99-6f22-427d-8326-406bfce91115</guid>
+    </item>
+    <item>
+      <title>万里长城</title>
+      <link>file://localhost/Users/limtc/Sites/Zhao_Yan/zhao_pian/ye_mian/wan_li_zhang_cheng.html</link>
+      <guid isPermaLink="false">0d5fab8e-cc39-4866-96ac-97116f75c741</guid>
+    </item>
+  </channel>
+</rss>
