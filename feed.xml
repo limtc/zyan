@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:936EF5DD-6411-435A-BDC1-4330666DC937</id>
+ <title>Page list Atom feed</title>
+ <updated>2010-01-16T09:21:12+08:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:D2131C63-84EA-4A49-80F1-D23EFB45A5F4</id>
+  <title>欢迎</title>
+  <title xmlns="urn:iweb:">欢迎</title>
+  <in-navbar xmlns="urn:iweb:">D2131C63-84EA-4A49-80F1-D23EFB45A5F4</in-navbar>
+  <link rel="alternate" href="huan_ying.html"/>
+  <updated>2010-01-16T09:21:12.001+08:00</updated>
+  <content>欢迎</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:041E0622-5B41-4DDF-BB8E-BD1BFE7398FF</id>
+  <title>照片</title>
+  <title xmlns="urn:iweb:">照片</title>
+  <in-navbar xmlns="urn:iweb:">041E0622-5B41-4DDF-BB8E-BD1BFE7398FF</in-navbar>
+  <link rel="alternate" href="zhao_pian/zhao_pian.html"/>
+  <updated>2010-01-16T09:21:12.002+08:00</updated>
+  <content>照片</content>
+ </entry>
+</feed>
